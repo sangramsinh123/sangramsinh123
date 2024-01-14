@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sangram Sawant</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Backend Software Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sangramsinh123&label=Profile%20views&color=0e75b6&style=flat" alt="sangramsinh123" /> </p>
 
 - 🔭 I’m currently working as **Software Engineer at HSBC**
 
-- 🌱 I’m currently learning **SpringBoot**
+- 🌱 I’m currently learning **SpringBoot, Angular **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
